@@ -1,0 +1,7 @@
+*.template
+*.py
+*.txt
+tf.tf
+.terraform/*
+ARM.json
+azure (1).json
